@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Scott\\Documents\\Workspace\\my-first-app\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "C:\\Users\\Scott\\Documents\\Workspace\\React-Native-App\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Scott\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\6cd6eaa7de542a1695fd9d038ca2c87d\\res\\values-large\\values-large.xml",
