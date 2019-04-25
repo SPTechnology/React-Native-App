@@ -5,6 +5,7 @@ const listItem = props => (
   <TouchableOpacity onPress={props.onItemPressed}>
     <View style={styles.listItem}>
       <Image resizeMode="cover" source={props.placeImage} style={styles.placeImage} />
+      <Text> Name: </Text>
       <Text>{props.placeName}</Text>
     </View>
   </TouchableOpacity>
@@ -23,7 +24,11 @@ const styles = StyleSheet.create({
       marginRight: 8,
       height: 30,
       width: 30
-  }
+  },
+  textStyle:{
+    fontSize:12,
+    color: "#B0E0E6",
+  },
 });
 
 export default listItem;
